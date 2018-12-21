@@ -1,0 +1,5 @@
+node_modules
+server/build/*.js
+server/build/*.css
+server/public/*.js
+server/public/*.css
